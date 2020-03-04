@@ -1,5 +1,5 @@
 # Euclid
-A rotation-invariant shape recognition system
+A rotation-invariant shape recognition system using functional regression
 
 
 
